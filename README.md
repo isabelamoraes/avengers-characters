@@ -55,7 +55,7 @@ $ yarn test
 
 ## Referência
 
-As informações sobre os personagens dessa aplicação são obstidas através da [Marvel Comics API](https://developer.marvel.com/).
+As informações sobre os personagens dessa aplicação são obtidas através da [Marvel Comics API](https://developer.marvel.com/).
 
 ## Design da Aplicação
 
